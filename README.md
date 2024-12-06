@@ -1,4 +1,4 @@
-# Computer Architecture: Project 6
+# Computer Architecture Microprocessor
 
 A single-cycle microarchitecture for a subset of the RISC-V instruction set architecture in Digital.
 
@@ -16,3 +16,16 @@ The processor implementation includes the following major sub-circuits:
 Viewable Google Sheet of Bit-Fields Link: https://docs.google.com/spreadsheets/d/1Pb-He8dEVis6oGV2mKcXwNrTJrMLPmz5hILxVsB4eQI/edit?usp=sharing
 
 **File of Bit-Fields is in repository as PDF file.**
+
+# Installation Steps
+Video Insturction https://youtu.be/bykyQNGxmcA
+1. Click the green download button from https://github.com/hneemann/Digital
+2. Clone this repo
+3. Open digital.jar on macOS or digital.exe on Windows
+4. File, Open project06.dig file from repo
+   a. Right click the CLK component and start realtime clock
+   b. Click the run button
+   c. Right click PROG component and set number from 1-23 to test different C code
+   d. Click EN to enable
+
+
