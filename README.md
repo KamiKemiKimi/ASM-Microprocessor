@@ -23,9 +23,9 @@ Viewable Google Sheet of Bit-Fields Link: https://docs.google.com/spreadsheets/d
 3. Open digital.jar on macOS or digital.exe on Windows
 4. File, Open project06.dig file from repo
 5. To Run (Video Instruction: https://youtu.be/bykyQNGxmcA):
-   a. Right click the CLK component and start realtime clock
-   b. Click the run button
-   c. Right click PROG component and set number from 1-23 to test different C code
-   d. Click EN to enable
+   - Right click the CLK component and start realtime clock
+   - Click the run button
+   - Right click PROG component and set number from 1-23 to test different C code
+   - Click EN to enable
 
 
